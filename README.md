@@ -80,5 +80,5 @@ streamlit run app.py
 ## 📬 Contact
 
 **Abhay Thakre**
-[GitHub](https://github.com/abhay34-ai) | [LinkedIn](https://linkedin.com/in/abhay-thakre)
+[GitHub](https://github.com/abhay34-ai) | [LinkedIn](https://www.linkedin.com/in/abhay-thakre-a402b1370/)
 
